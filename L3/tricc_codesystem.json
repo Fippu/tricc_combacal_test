@@ -10,16 +10,6 @@
     "content": "complete",
     "concept": [
         {
-            "code": "opt_1",
-            "display": "Banana",
-            "property": [
-                {
-                    "code": "datatype",
-                    "valueString": "N/A"
-                }
-            ]
-        },
-        {
             "code": "opt_2",
             "display": "Apple Pie",
             "property": [
