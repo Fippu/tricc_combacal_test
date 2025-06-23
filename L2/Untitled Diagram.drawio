@@ -78,7 +78,7 @@
         </UserObject>
         <object label="group" odk_type="container_page" name="g_" id="k24GHoGkGPeTWMlgkCIQ-17">
           <mxCell style="swimlane;startSize=0;verticalAlign=bottom;strokeColor=#F19C99;fillColor=#F8CECC;" vertex="1" parent="1">
-            <mxGeometry x="360" y="410" width="1080" height="1030" as="geometry" />
+            <mxGeometry x="330" y="410" width="1110" height="1030" as="geometry" />
           </mxCell>
         </object>
         <UserObject label="Was the HepB birth dose administered" name="select_" odk_type="select_one" filter="" id="k24GHoGkGPeTWMlgkCIQ-26">
@@ -107,6 +107,9 @@
           </mxCell>
         </object>
         <mxCell id="k24GHoGkGPeTWMlgkCIQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k24GHoGkGPeTWMlgkCIQ-17" source="k24GHoGkGPeTWMlgkCIQ-27" target="k24GHoGkGPeTWMlgkCIQ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k24GHoGkGPeTWMlgkCIQ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k24GHoGkGPeTWMlgkCIQ-17" source="k24GHoGkGPeTWMlgkCIQ-17" target="k24GHoGkGPeTWMlgkCIQ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="Activity end" name="next_" odk_type="activity_end" id="k24GHoGkGPeTWMlgkCIQ-40">
