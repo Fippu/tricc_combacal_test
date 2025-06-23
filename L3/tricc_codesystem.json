@@ -82,26 +82,6 @@
             ]
         },
         {
-            "code": "d_k24GHoGkGPeTWMlgkCIQ-2",
-            "display": "Date of Birth",
-            "property": [
-                {
-                    "code": "datatype",
-                    "valueString": "Date"
-                }
-            ]
-        },
-        {
-            "code": "d_k24GHoGkGPeTWMlgkCIQ-55",
-            "display": "HepB vaccination date",
-            "property": [
-                {
-                    "code": "datatype",
-                    "valueString": "Date"
-                }
-            ]
-        },
-        {
             "code": "d_k24GHoGkGPeTWMlgkCIQ-4",
             "display": "Date of Birth",
             "property": [
@@ -114,6 +94,26 @@
         {
             "code": "d_k24GHoGkGPeTWMlgkCIQ-53",
             "display": "BCG vaccination date",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "Date"
+                }
+            ]
+        },
+        {
+            "code": "d_k24GHoGkGPeTWMlgkCIQ-2",
+            "display": "Date of Birth",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "Date"
+                }
+            ]
+        },
+        {
+            "code": "d_k24GHoGkGPeTWMlgkCIQ-55",
+            "display": "HepB vaccination date",
             "property": [
                 {
                     "code": "datatype",
