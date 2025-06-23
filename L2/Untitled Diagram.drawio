@@ -70,6 +70,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="k24GHoGkGPeTWMlgkCIQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k24GHoGkGPeTWMlgkCIQ-14" target="k24GHoGkGPeTWMlgkCIQ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Ask a YES/NO question" name="ask_" odk_type="select_one yesno" id="k24GHoGkGPeTWMlgkCIQ-14">
           <mxCell style="html=1;whiteSpace=wrap;fillColor=none;rounded=0;strokeColor=default;align=left;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;rectStyle=rounded;size=10;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="1">
             <mxGeometry x="155" y="410" width="120" height="40" as="geometry" />
@@ -136,6 +139,11 @@
         <mxCell id="k24GHoGkGPeTWMlgkCIQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k24GHoGkGPeTWMlgkCIQ-17" source="k24GHoGkGPeTWMlgkCIQ-27" target="k24GHoGkGPeTWMlgkCIQ-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <object label="Activity end" name="next_" odk_type="activity_end" id="k24GHoGkGPeTWMlgkCIQ-40">
+          <mxCell style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;strokeColor=default;" vertex="1" parent="1">
+            <mxGeometry x="90" y="950" width="50" height="50" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
