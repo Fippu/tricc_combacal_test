@@ -10,9 +10,27 @@
     "content": "complete",
     "concept": [
         {
-            "code": "opt_2",
-            "display": "Apple Pie",
+            "code": "opt_1",
+            "display": "Yes",
             "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "N/A"
+                },
+                {
+                    "code": "datatype",
+                    "valueString": "N/A"
+                }
+            ]
+        },
+        {
+            "code": "opt_2",
+            "display": "No",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "N/A"
+                },
                 {
                     "code": "datatype",
                     "valueString": "N/A"
@@ -21,8 +39,12 @@
         },
         {
             "code": "opt_3",
-            "display": "Bread",
+            "display": "Unknown",
             "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "N/A"
+                },
                 {
                     "code": "datatype",
                     "valueString": "N/A"
@@ -30,22 +52,72 @@
             ]
         },
         {
-            "code": "opt_none",
-            "display": "None of the above",
+            "code": "select_k24GHoGkGPeTWMlgkCIQ-45",
+            "display": "Was the BCG vaccine administered",
             "property": [
                 {
                     "code": "datatype",
-                    "valueString": "N/A"
+                    "valueString": "Coded"
                 }
             ]
         },
         {
-            "code": "select_Z0N9JRWNuW6hyQx3rRIH-15",
-            "display": "would you like one of the following",
+            "code": "select_k24GHoGkGPeTWMlgkCIQ-49",
+            "display": "Was the HepB birth dose administered",
             "property": [
                 {
                     "code": "datatype",
-                    "valueString": "N/A"
+                    "valueString": "Coded"
+                }
+            ]
+        },
+        {
+            "code": "t_k24GHoGkGPeTWMlgkCIQ-3",
+            "display": "Under 5 Number",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "Text"
+                }
+            ]
+        },
+        {
+            "code": "d_k24GHoGkGPeTWMlgkCIQ-2",
+            "display": "Date of Birth",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "Date"
+                }
+            ]
+        },
+        {
+            "code": "d_k24GHoGkGPeTWMlgkCIQ-55",
+            "display": "HepB vaccination date",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "Date"
+                }
+            ]
+        },
+        {
+            "code": "d_k24GHoGkGPeTWMlgkCIQ-4",
+            "display": "Date of Birth",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "Date"
+                }
+            ]
+        },
+        {
+            "code": "d_k24GHoGkGPeTWMlgkCIQ-53",
+            "display": "BCG vaccination date",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "Date"
                 }
             ]
         },
@@ -70,8 +142,8 @@
             ]
         },
         {
-            "code": "ask_Z0N9JRWNuW6hyQx3rRIH-4",
-            "display": "Did you eat breakfast",
+            "code": "ask_k24GHoGkGPeTWMlgkCIQ-14",
+            "display": "Ask a YES/NO question",
             "property": [
                 {
                     "code": "datatype",
