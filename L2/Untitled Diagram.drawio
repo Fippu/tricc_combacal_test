@@ -52,12 +52,12 @@
             <mxGeometry x="160" y="320" width="100" height="60" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="k24GHoGkGPeTWMlgkCIQ-12" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#F8CECC;" edge="1" source="k24GHoGkGPeTWMlgkCIQ-14" parent="1" target="k24GHoGkGPeTWMlgkCIQ-17">
+        <mxCell id="k24GHoGkGPeTWMlgkCIQ-12" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#F8CECC;" edge="1" source="k24GHoGkGPeTWMlgkCIQ-14" parent="1" target="k24GHoGkGPeTWMlgkCIQ-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="440" as="targetPoint" />
+            <mxPoint x="360" y="430" as="targetPoint" />
             <Array as="points">
               <mxPoint x="330" y="430" />
-              <mxPoint x="330" y="430" />
+              <mxPoint x="330" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -76,47 +76,77 @@
             <mxGeometry x="155" y="410" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <object label="group" odk_type="container_page" name="g_" id="k24GHoGkGPeTWMlgkCIQ-17">
-          <mxCell style="swimlane;startSize=0;verticalAlign=bottom;strokeColor=#F19C99;fillColor=#F8CECC;" vertex="1" parent="1">
-            <mxGeometry x="330" y="410" width="1110" height="1030" as="geometry" />
-          </mxCell>
-        </object>
-        <UserObject label="Was the HepB birth dose administered" name="select_" odk_type="select_one" filter="" id="k24GHoGkGPeTWMlgkCIQ-26">
-          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontColor=#000000;rounded=1;fillColor=none;strokeColor=default;align=left;" vertex="1" parent="k24GHoGkGPeTWMlgkCIQ-17">
-            <mxGeometry x="40" y="420" width="225" height="120" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Yes" name="opt_1" odk_type="select_option" id="k24GHoGkGPeTWMlgkCIQ-27">
-          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;rounded=0;dashed=1;" vertex="1" parent="k24GHoGkGPeTWMlgkCIQ-26">
-            <mxGeometry y="30" width="225" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="No" name="opt_2" odk_type="select_option" id="k24GHoGkGPeTWMlgkCIQ-28">
-          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;rounded=0;dashed=1;" vertex="1" parent="k24GHoGkGPeTWMlgkCIQ-26">
-            <mxGeometry y="60" width="225" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Unknown" name="opt_3" odk_type="select_option" id="k24GHoGkGPeTWMlgkCIQ-29">
-          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;rounded=0;dashed=1;" vertex="1" parent="k24GHoGkGPeTWMlgkCIQ-26">
-            <mxGeometry y="90" width="225" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <object label="HepB vaccination date" odk_type="date" name="d_" id="k24GHoGkGPeTWMlgkCIQ-32">
-          <mxCell style="shape=mxgraph.bpmn.task2;whiteSpace=wrap;html=1;fixedSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rectStyle=rounded;size=10;container=1;expand=0;collapsible=0;taskMarker=user;fillColor=none;" vertex="1" parent="k24GHoGkGPeTWMlgkCIQ-17">
-            <mxGeometry x="460" y="435" width="100" height="60" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="k24GHoGkGPeTWMlgkCIQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k24GHoGkGPeTWMlgkCIQ-17" source="k24GHoGkGPeTWMlgkCIQ-27" target="k24GHoGkGPeTWMlgkCIQ-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k24GHoGkGPeTWMlgkCIQ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k24GHoGkGPeTWMlgkCIQ-17" source="k24GHoGkGPeTWMlgkCIQ-17" target="k24GHoGkGPeTWMlgkCIQ-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <object label="Activity end" name="next_" odk_type="activity_end" id="k24GHoGkGPeTWMlgkCIQ-40">
           <mxCell style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;strokeColor=default;" vertex="1" parent="1">
             <mxGeometry x="90" y="950" width="50" height="50" as="geometry" />
           </mxCell>
         </object>
+        <UserObject label="Was the BCG vaccine administered" name="select_" odk_type="select_one" filter="" id="k24GHoGkGPeTWMlgkCIQ-45">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontColor=#000000;rounded=1;fillColor=none;strokeColor=default;align=left;" vertex="1" parent="1">
+            <mxGeometry x="470" y="390" width="225" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Yes" name="opt_1" odk_type="select_option" id="k24GHoGkGPeTWMlgkCIQ-46">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;rounded=0;dashed=1;" vertex="1" parent="k24GHoGkGPeTWMlgkCIQ-45">
+            <mxGeometry y="30" width="225" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="No" name="opt_2" odk_type="select_option" id="k24GHoGkGPeTWMlgkCIQ-47">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;rounded=0;dashed=1;" vertex="1" parent="k24GHoGkGPeTWMlgkCIQ-45">
+            <mxGeometry y="60" width="225" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Unknown" name="opt_3" odk_type="select_option" id="k24GHoGkGPeTWMlgkCIQ-48">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;rounded=0;dashed=1;" vertex="1" parent="k24GHoGkGPeTWMlgkCIQ-45">
+            <mxGeometry y="90" width="225" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Was the HepB birth dose administered" name="select_" odk_type="select_one" filter="" id="k24GHoGkGPeTWMlgkCIQ-49">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fontColor=#000000;rounded=1;fillColor=none;strokeColor=default;align=left;" vertex="1" parent="1">
+            <mxGeometry x="470" y="770" width="225" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Yes" name="opt_1" odk_type="select_option" id="k24GHoGkGPeTWMlgkCIQ-50">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;rounded=0;dashed=1;" vertex="1" parent="k24GHoGkGPeTWMlgkCIQ-49">
+            <mxGeometry y="30" width="225" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="No" name="opt_2" odk_type="select_option" id="k24GHoGkGPeTWMlgkCIQ-51">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;rounded=0;dashed=1;" vertex="1" parent="k24GHoGkGPeTWMlgkCIQ-49">
+            <mxGeometry y="60" width="225" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Unknown" name="opt_3" odk_type="select_option" id="k24GHoGkGPeTWMlgkCIQ-52">
+          <mxCell style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;rounded=0;dashed=1;" vertex="1" parent="k24GHoGkGPeTWMlgkCIQ-49">
+            <mxGeometry y="90" width="225" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="&lt;div&gt;BCG vaccination date&lt;/div&gt;" odk_type="date" name="d_" constraint="${date_of_birth} &lt;= .  and . &lt;= today()" constraint_message="date cannot be in the future" id="k24GHoGkGPeTWMlgkCIQ-53">
+          <mxCell style="shape=mxgraph.bpmn.task2;whiteSpace=wrap;html=1;fixedSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rectStyle=rounded;size=10;container=1;expand=0;collapsible=0;taskMarker=user;fillColor=none;" vertex="1" parent="1">
+            <mxGeometry x="890" y="405" width="100" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="k24GHoGkGPeTWMlgkCIQ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k24GHoGkGPeTWMlgkCIQ-46" target="k24GHoGkGPeTWMlgkCIQ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="HepB vaccination date" odk_type="date" name="d_" id="k24GHoGkGPeTWMlgkCIQ-55">
+          <mxCell style="shape=mxgraph.bpmn.task2;whiteSpace=wrap;html=1;fixedSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rectStyle=rounded;size=10;container=1;expand=0;collapsible=0;taskMarker=user;fillColor=none;" vertex="1" parent="1">
+            <mxGeometry x="890" y="785" width="100" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="k24GHoGkGPeTWMlgkCIQ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k24GHoGkGPeTWMlgkCIQ-50" target="k24GHoGkGPeTWMlgkCIQ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k24GHoGkGPeTWMlgkCIQ-60" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#F8CECC;" edge="1" parent="1" source="k24GHoGkGPeTWMlgkCIQ-14" target="k24GHoGkGPeTWMlgkCIQ-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="710" as="targetPoint" />
+            <mxPoint x="360" y="760" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="360" y="430" />
+              <mxPoint x="360" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
