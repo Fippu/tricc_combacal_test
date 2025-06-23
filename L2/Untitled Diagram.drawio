@@ -61,17 +61,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k24GHoGkGPeTWMlgkCIQ-13" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#F8CECC;" edge="1" source="k24GHoGkGPeTWMlgkCIQ-14" parent="1">
+        <mxCell id="k24GHoGkGPeTWMlgkCIQ-13" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;fillColor=#F8CECC;" edge="1" source="k24GHoGkGPeTWMlgkCIQ-14" parent="1" target="k24GHoGkGPeTWMlgkCIQ-40">
           <mxGeometry x="-0.022" relative="1" as="geometry">
             <mxPoint x="220" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="220" y="480" />
+              <mxPoint x="115" y="480" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="k24GHoGkGPeTWMlgkCIQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k24GHoGkGPeTWMlgkCIQ-14" target="k24GHoGkGPeTWMlgkCIQ-40">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Ask a YES/NO question" name="ask_" odk_type="select_one yesno" id="k24GHoGkGPeTWMlgkCIQ-14">
           <mxCell style="html=1;whiteSpace=wrap;fillColor=none;rounded=0;strokeColor=default;align=left;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;rectStyle=rounded;size=10;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="1">
