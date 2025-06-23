@@ -1,0 +1,93 @@
+{
+    "resourceType": "CodeSystem",
+    "id": "tricc",
+    "url": "http://example.com/fhir/CodeSystem/tricc",
+    "version": "1.0.0",
+    "name": "tricc",
+    "title": "tricc",
+    "status": "draft",
+    "description": "Code system for tricc",
+    "content": "complete",
+    "concept": [
+        {
+            "code": "opt_1",
+            "display": "Banana",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "N/A"
+                }
+            ]
+        },
+        {
+            "code": "opt_2",
+            "display": "Apple Pie",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "N/A"
+                }
+            ]
+        },
+        {
+            "code": "opt_3",
+            "display": "Bread",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "N/A"
+                }
+            ]
+        },
+        {
+            "code": "opt_none",
+            "display": "None of the above",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "N/A"
+                }
+            ]
+        },
+        {
+            "code": "select_Z0N9JRWNuW6hyQx3rRIH-15",
+            "display": "would you like one of the following",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "N/A"
+                }
+            ]
+        },
+        {
+            "code": "true",
+            "display": "Yes",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "N/A"
+                }
+            ]
+        },
+        {
+            "code": "false",
+            "display": "No",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "N/A"
+                }
+            ]
+        },
+        {
+            "code": "ask_Z0N9JRWNuW6hyQx3rRIH-4",
+            "display": "Did you eat breakfast",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "Coded"
+                }
+            ]
+        }
+    ]
+}
