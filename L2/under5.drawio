@@ -170,7 +170,7 @@
             <mxPoint x="960" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="${t_vac_bcg}!=&#39;yes&#39; and ${vac_bcg}!=&#39;yes&#39; and ${vac_bcg}!=&#39;&#39; and ${d_since_b} &amp;gt;= 365 * 11 div 12" name="r_" odk_type="rhombus" reference="" id="uKV6401G0jy6ZUsrKqNN-77">
+        <UserObject label="1 = 1" name="r_" odk_type="rhombus" reference="" id="uKV6401G0jy6ZUsrKqNN-77">
           <mxCell style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;fillColor=none;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;rectStyle=rounded;size=10;container=1;expand=0;collapsible=0;taskMarker=businessRule;" parent="1" vertex="1">
             <mxGeometry x="1010" y="770" width="200" height="80" as="geometry" />
           </mxCell>
@@ -201,7 +201,7 @@
             <mxPoint x="638" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="${t_vac_bcg} != &quot;yes&quot;" name="r_" odk_type="rhombus" reference="" id="eObNLl0OWFTAh-jxPU2k-12">
+        <UserObject label="1 = 1" name="r_" odk_type="rhombus" reference="" id="eObNLl0OWFTAh-jxPU2k-12">
           <mxCell style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;fillColor=none;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;rectStyle=rounded;size=10;container=1;expand=0;collapsible=0;taskMarker=businessRule;" vertex="1" parent="1">
             <mxGeometry x="678" y="531" width="80" height="80" as="geometry" />
           </mxCell>
