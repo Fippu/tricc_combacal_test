@@ -20,13 +20,9 @@
             ]
         },
         {
-            "code": "date_of_birth",
-            "display": "Date of Birth",
+            "code": "d_uKV6401G0jy6ZUsrKqNN-44",
+            "display": "Registration Date",
             "property": [
-                {
-                    "code": "datatype",
-                    "valueString": "Date"
-                },
                 {
                     "code": "datatype",
                     "valueString": "Date"
@@ -34,9 +30,13 @@
             ]
         },
         {
-            "code": "d_uKV6401G0jy6ZUsrKqNN-44",
-            "display": "Registration Date",
+            "code": "date_of_birth",
+            "display": "Date of Birth",
             "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "Date"
+                },
                 {
                     "code": "datatype",
                     "valueString": "Date"
@@ -134,8 +134,8 @@
             ]
         },
         {
-            "code": "vac_bcg",
-            "display": "Was the BCG vaccine administered",
+            "code": "vac_hepB",
+            "display": "Was the HepB vaccine administered",
             "property": [
                 {
                     "code": "datatype",
@@ -144,8 +144,8 @@
             ]
         },
         {
-            "code": "vac_hepB",
-            "display": "Was the HepB vaccine administered",
+            "code": "vac_bcg",
+            "display": "Was the BCG vaccine administered",
             "property": [
                 {
                     "code": "datatype",
@@ -216,8 +216,8 @@
             ]
         },
         {
-            "code": "select_k24GHoGkGPeTWMlgkCIQ-49",
-            "display": "Was the HepB birth dose administered",
+            "code": "select_k24GHoGkGPeTWMlgkCIQ-45",
+            "display": "Was the BCG vaccine administered",
             "property": [
                 {
                     "code": "datatype",
@@ -226,8 +226,8 @@
             ]
         },
         {
-            "code": "select_k24GHoGkGPeTWMlgkCIQ-45",
-            "display": "Was the BCG vaccine administered",
+            "code": "select_k24GHoGkGPeTWMlgkCIQ-49",
+            "display": "Was the HepB birth dose administered",
             "property": [
                 {
                     "code": "datatype",
