@@ -186,7 +186,7 @@
         <mxCell id="eObNLl0OWFTAh-jxPU2k-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eObNLl0OWFTAh-jxPU2k-6" target="eObNLl0OWFTAh-jxPU2k-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="&lt;div&gt;Hidden Input&lt;/div&gt;" odk_type="text" name="t_" id="eObNLl0OWFTAh-jxPU2k-6">
+        <object label="&lt;div&gt;t_vac_bcg&lt;/div&gt;" odk_type="text" name="t_" id="eObNLl0OWFTAh-jxPU2k-6">
           <mxCell style="shape=mxgraph.bpmn.task2;whiteSpace=wrap;html=1;fixedSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rectStyle=rounded;size=10;container=1;expand=0;collapsible=0;taskMarker=user;fillColor=none;strokeColor=#9673a6;" vertex="1" parent="1">
             <mxGeometry x="663" y="450" width="110" height="60" as="geometry" />
           </mxCell>
@@ -201,7 +201,7 @@
             <mxPoint x="638" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="!= &quot;yes&quot;" name="r_" odk_type="rhombus" reference="" id="eObNLl0OWFTAh-jxPU2k-12">
+        <UserObject label="${t_vac_bcg} != &quot;yes&quot;" name="r_" odk_type="rhombus" reference="" id="eObNLl0OWFTAh-jxPU2k-12">
           <mxCell style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;fillColor=none;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;rectStyle=rounded;size=10;container=1;expand=0;collapsible=0;taskMarker=businessRule;" vertex="1" parent="1">
             <mxGeometry x="678" y="531" width="80" height="80" as="geometry" />
           </mxCell>
