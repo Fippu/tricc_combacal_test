@@ -134,16 +134,6 @@
             ]
         },
         {
-            "code": "vac_bcg",
-            "display": "Was the BCG vaccine administered",
-            "property": [
-                {
-                    "code": "datatype",
-                    "valueString": "Coded"
-                }
-            ]
-        },
-        {
             "code": "vac_hepB",
             "display": "Was the HepB vaccine administered",
             "property": [
@@ -154,8 +144,18 @@
             ]
         },
         {
-            "code": "vac_bcg_date",
-            "display": "BCG vaccination date",
+            "code": "vac_bcg",
+            "display": "Was the BCG vaccine administered",
+            "property": [
+                {
+                    "code": "datatype",
+                    "valueString": "Coded"
+                }
+            ]
+        },
+        {
+            "code": "vac_hepB_date",
+            "display": "HepB vaccination date",
             "property": [
                 {
                     "code": "datatype",
@@ -164,8 +164,8 @@
             ]
         },
         {
-            "code": "vac_hepB_date",
-            "display": "HepB vaccination date",
+            "code": "vac_bcg_date",
+            "display": "BCG vaccination date",
             "property": [
                 {
                     "code": "datatype",
@@ -216,8 +216,8 @@
             ]
         },
         {
-            "code": "select_k24GHoGkGPeTWMlgkCIQ-45",
-            "display": "Was the BCG vaccine administered",
+            "code": "select_k24GHoGkGPeTWMlgkCIQ-49",
+            "display": "Was the HepB birth dose administered",
             "property": [
                 {
                     "code": "datatype",
@@ -226,8 +226,8 @@
             ]
         },
         {
-            "code": "select_k24GHoGkGPeTWMlgkCIQ-49",
-            "display": "Was the HepB birth dose administered",
+            "code": "select_k24GHoGkGPeTWMlgkCIQ-45",
+            "display": "Was the BCG vaccine administered",
             "property": [
                 {
                     "code": "datatype",
@@ -246,8 +246,8 @@
             ]
         },
         {
-            "code": "d_k24GHoGkGPeTWMlgkCIQ-4",
-            "display": "Registration Date",
+            "code": "d_k24GHoGkGPeTWMlgkCIQ-55",
+            "display": "HepB vaccination date",
             "property": [
                 {
                     "code": "datatype",
@@ -256,8 +256,8 @@
             ]
         },
         {
-            "code": "d_k24GHoGkGPeTWMlgkCIQ-55",
-            "display": "HepB vaccination date",
+            "code": "d_k24GHoGkGPeTWMlgkCIQ-4",
+            "display": "Registration Date",
             "property": [
                 {
                     "code": "datatype",
