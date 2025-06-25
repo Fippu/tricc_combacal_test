@@ -237,7 +237,7 @@
             <mxPoint x="448" y="749" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;div&gt;Has the HepB vaccine been&amp;nbsp; administered previously&lt;/div&gt;" name="r_" odk_type="rhombus" reference="&quot;t_vac_hepb&quot; != &#39;yes&#39;" id="bts3jVF8Vt55tUde9S_U-97">
+        <UserObject label="&lt;div&gt;Has the HepB vaccine been&amp;nbsp; administered previously&lt;/div&gt;" name="r_" odk_type="rhombus" reference="&quot;t_vac_hepB&quot; != &#39;yes&#39;" id="bts3jVF8Vt55tUde9S_U-97">
           <mxCell style="whiteSpace=wrap;html=1;rounded=0;strokeColor=default;fillColor=none;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;rectStyle=rounded;size=10;container=1;expand=0;collapsible=0;taskMarker=businessRule;" vertex="1" parent="1">
             <mxGeometry x="90" y="690" width="80" height="80" as="geometry" />
           </mxCell>
