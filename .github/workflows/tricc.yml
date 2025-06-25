@@ -18,7 +18,7 @@ jobs:
       with:
         input_path: 'L2'
         output_path: 'L3'
-        output_strategy: 'XLSFormStrategy' # XLSFormCHTStrategy, XLSFormCHTHFStrategy, XLSFormStrategy, XLSFormCDSSStrategy
+        output_strategy: 'XLSFormCHTStrategy' # XLSFormCHTStrategy, XLSFormCHTHFStrategy, XLSFormStrategy, XLSFormCDSSStrategy
         input_strategy: 'DrawioStrategy'
     # Configure Git user for commits
     - name: Configure Git
