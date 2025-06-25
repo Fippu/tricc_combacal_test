@@ -20,16 +20,6 @@
             ]
         },
         {
-            "code": "d_uKV6401G0jy6ZUsrKqNN-44",
-            "display": "Registration Date",
-            "property": [
-                {
-                    "code": "datatype",
-                    "valueString": "Date"
-                }
-            ]
-        },
-        {
             "code": "date_of_birth",
             "display": "Date of Birth",
             "property": [
@@ -37,6 +27,16 @@
                     "code": "datatype",
                     "valueString": "Date"
                 },
+                {
+                    "code": "datatype",
+                    "valueString": "Date"
+                }
+            ]
+        },
+        {
+            "code": "d_uKV6401G0jy6ZUsrKqNN-44",
+            "display": "Registration Date",
+            "property": [
                 {
                     "code": "datatype",
                     "valueString": "Date"
@@ -154,8 +154,8 @@
             ]
         },
         {
-            "code": "vac_hepB_date",
-            "display": "HepB vaccination date",
+            "code": "vac_bcg_date",
+            "display": "BCG vaccination date",
             "property": [
                 {
                     "code": "datatype",
@@ -164,8 +164,8 @@
             ]
         },
         {
-            "code": "vac_bcg_date",
-            "display": "BCG vaccination date",
+            "code": "vac_hepB_date",
+            "display": "HepB vaccination date",
             "property": [
                 {
                     "code": "datatype",
@@ -246,8 +246,8 @@
             ]
         },
         {
-            "code": "d_k24GHoGkGPeTWMlgkCIQ-55",
-            "display": "HepB vaccination date",
+            "code": "d_k24GHoGkGPeTWMlgkCIQ-4",
+            "display": "Registration Date",
             "property": [
                 {
                     "code": "datatype",
@@ -266,8 +266,8 @@
             ]
         },
         {
-            "code": "d_k24GHoGkGPeTWMlgkCIQ-4",
-            "display": "Registration Date",
+            "code": "d_k24GHoGkGPeTWMlgkCIQ-55",
+            "display": "HepB vaccination date",
             "property": [
                 {
                     "code": "datatype",
