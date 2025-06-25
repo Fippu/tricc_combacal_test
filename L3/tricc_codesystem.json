@@ -20,8 +20,8 @@
             ]
         },
         {
-            "code": "date_of_birth",
-            "display": "Date of Birth",
+            "code": "d_uKV6401G0jy6ZUsrKqNN-44",
+            "display": "Registration Date",
             "property": [
                 {
                     "code": "datatype",
@@ -30,8 +30,8 @@
             ]
         },
         {
-            "code": "d_uKV6401G0jy6ZUsrKqNN-44",
-            "display": "Registration Date",
+            "code": "date_of_birth",
+            "display": "Date of Birth",
             "property": [
                 {
                     "code": "datatype",
