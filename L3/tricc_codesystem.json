@@ -122,8 +122,8 @@
             ]
         },
         {
-            "code": "vac_hep_b_birth",
-            "display": "Was the HepB vaccine administered",
+            "code": "vac_bcg",
+            "display": "Was the BCG vaccine administered",
             "property": [
                 {
                     "code": "datatype",
@@ -132,8 +132,8 @@
             ]
         },
         {
-            "code": "vac_bcg",
-            "display": "Was the BCG vaccine administered",
+            "code": "vac_hep_b_birth",
+            "display": "Was the HepB vaccine administered",
             "property": [
                 {
                     "code": "datatype",
@@ -153,7 +153,7 @@
         },
         {
             "code": "vac_bcg_date",
-            "display": "BCG vaccination date",
+            "display": "BCG vaccination date modified constraint",
             "property": [
                 {
                     "code": "datatype",
