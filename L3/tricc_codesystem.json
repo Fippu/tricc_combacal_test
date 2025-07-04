@@ -142,8 +142,8 @@
             ]
         },
         {
-            "code": "vac_bcg_date",
-            "display": "BCG vaccination date modified constraint",
+            "code": "vac_hep_b_birth_date",
+            "display": "HepB vaccination date",
             "property": [
                 {
                     "code": "datatype",
@@ -152,8 +152,8 @@
             ]
         },
         {
-            "code": "vac_hep_b_birth_date",
-            "display": "HepB vaccination date",
+            "code": "vac_bcg_date",
+            "display": "BCG vaccination date modified constraint",
             "property": [
                 {
                     "code": "datatype",
